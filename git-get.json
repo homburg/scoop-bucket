@@ -1,0 +1,14 @@
+{
+    "version": "1.1.201910072006",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/homburg/git-get/releases/download/v1.1.201910072006/git-get_1.1.201910072006_windows_amd64.zip",
+            "bin": [
+                "git-get.exe"
+            ],
+            "hash": "8e56b51a5925f0aacc7c3b6ea5d06248c289c0fdfc981f64169bf8d82a5da588"
+        }
+    },
+    "license": "MIT",
+    "description": "Clone git repositories to $HOME/src/github.com/\u003cuser\u003e/\u003crepo\u003e"
+}
