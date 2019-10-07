@@ -1,0 +1,14 @@
+{
+    "version": "1.1.201910072044",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/homburg/tree/releases/download/v1.1.201910072044/tree_1.1.201910072044_windows_amd64.zip",
+            "bin": [
+                "tree.exe"
+            ],
+            "hash": "7bfcff7a11552a5142af0bfedfe3ee51ccaac19e4d911f9806b790d2b33fce63"
+        }
+    },
+    "license": "MIT",
+    "description": "Clone git repositories to $HOME/src/github.com/\u003cuser\u003e/\u003crepo\u003e"
+}
