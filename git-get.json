@@ -1,12 +1,12 @@
 {
-    "version": "1.1.201910072006",
+    "version": "1.1.201910072018",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/homburg/git-get/releases/download/v1.1.201910072006/git-get_1.1.201910072006_windows_amd64.zip",
+            "url": "https://github.com/homburg/git-get/releases/download/v1.1.201910072018/git-get_1.1.201910072018_windows_amd64.zip",
             "bin": [
                 "git-get.exe"
             ],
-            "hash": "8e56b51a5925f0aacc7c3b6ea5d06248c289c0fdfc981f64169bf8d82a5da588"
+            "hash": "4db28a9c2ae881e57bb3e84ce8892309ba472d241dd2247bf18ab09aaa6d6bc1"
         }
     },
     "license": "MIT",
